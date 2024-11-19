@@ -1,0 +1,1 @@
+I will be using Python to analyze bike share data from Chicago, New York City, and Washington, importing the data and calculating descriptive statistics to answer key questions. Additionally, I will develop an interactive terminal-based script to present these insights effectively.
